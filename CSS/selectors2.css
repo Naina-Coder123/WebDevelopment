@@ -1,0 +1,33 @@
+html{
+    font-size: 22px;
+}
+    *{
+    font-family: italic;
+    border: 1px solid red;
+}
+body{
+    font-size:20px;
+    border: 1px solid green;
+}
+button,input,textarea,select{
+    font: inherit;
+}
+main{
+    font-family: monospace;
+
+}
+#first{
+    color: blue,  !important;
+}
+#second{
+    color:red;
+    border: 2px solid black;
+}.grey{
+    color:red
+}h1,h2{
+    color:green;
+}
+.highlight{
+    text-transform: uppercase;
+    background-color: yellow;
+}
