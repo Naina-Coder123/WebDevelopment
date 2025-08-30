@@ -113,3 +113,6 @@ console.log(a);
 let s=a.reduce((c,curr)=>{
     return c+curr;
 });
+console.log("hello");
+window.console.log("hello")//gloabal object which is provided by the browser
+//window object represents an open window
